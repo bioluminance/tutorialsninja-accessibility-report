@@ -22,9 +22,10 @@ View the `bug-report.md` or download it directly from this repo.
 Open the presentation video (link below) to see a walkthrough of the findings.
 
 ---
-
+  
 🎥 Video Presentation Link  
-👉 Coming soon...
+👉 [Watch on Google Drive](https://drive.google.com/file/d/1kKameYBIN0mMavyJPAkoxZLxCYJwBdkI/view?usp=sharing)
+
 
 ---
 
